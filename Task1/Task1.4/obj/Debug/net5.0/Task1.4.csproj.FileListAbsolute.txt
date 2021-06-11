@@ -1,0 +1,14 @@
+/Users/nijatjafarov/Desktop/PragmatechC#/Task1/Task1.4/bin/Debug/net5.0/Task1.4.deps.json
+/Users/nijatjafarov/Desktop/PragmatechC#/Task1/Task1.4/bin/Debug/net5.0/Task1.4.runtimeconfig.json
+/Users/nijatjafarov/Desktop/PragmatechC#/Task1/Task1.4/bin/Debug/net5.0/Task1.4.runtimeconfig.dev.json
+/Users/nijatjafarov/Desktop/PragmatechC#/Task1/Task1.4/bin/Debug/net5.0/Task1.4.dll
+/Users/nijatjafarov/Desktop/PragmatechC#/Task1/Task1.4/bin/Debug/net5.0/ref/Task1.4.dll
+/Users/nijatjafarov/Desktop/PragmatechC#/Task1/Task1.4/bin/Debug/net5.0/Task1.4.pdb
+/Users/nijatjafarov/Desktop/PragmatechC#/Task1/Task1.4/obj/Debug/net5.0/Task1.4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nijatjafarov/Desktop/PragmatechC#/Task1/Task1.4/obj/Debug/net5.0/Task1.4.AssemblyInfoInputs.cache
+/Users/nijatjafarov/Desktop/PragmatechC#/Task1/Task1.4/obj/Debug/net5.0/Task1.4.AssemblyInfo.cs
+/Users/nijatjafarov/Desktop/PragmatechC#/Task1/Task1.4/obj/Debug/net5.0/Task1.4.csproj.CoreCompileInputs.cache
+/Users/nijatjafarov/Desktop/PragmatechC#/Task1/Task1.4/obj/Debug/net5.0/Task1.4.dll
+/Users/nijatjafarov/Desktop/PragmatechC#/Task1/Task1.4/obj/Debug/net5.0/ref/Task1.4.dll
+/Users/nijatjafarov/Desktop/PragmatechC#/Task1/Task1.4/obj/Debug/net5.0/Task1.4.pdb
+/Users/nijatjafarov/Desktop/PragmatechC#/Task1/Task1.4/obj/Debug/net5.0/Task1.4.genruntimeconfig.cache
