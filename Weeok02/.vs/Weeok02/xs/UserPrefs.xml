@@ -1,13 +1,15 @@
 ﻿<Properties StartupConfiguration="{039EBE39-665F-4AC9-A440-55F231F764D5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Task1/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task2/Program.cs">
     <Files>
       <File FileName="Task1/Program.cs" Line="28" Column="29" />
+      <File FileName="Task2/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Weeok02" expanded="True">
-            <Node name="Task1" expanded="True">
+            <Node name="Task1" expanded="True" />
+            <Node name="Task2" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -22,4 +24,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Task2 FirstBuild="True" />
 </Properties>
