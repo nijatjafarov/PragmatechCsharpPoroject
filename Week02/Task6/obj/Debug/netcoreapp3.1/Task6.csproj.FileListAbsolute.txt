@@ -1,0 +1,11 @@
+/Users/nijatjafarov/Desktop/PragmatechC#/Weeok02/Task6/bin/Debug/netcoreapp3.1/Task6.deps.json
+/Users/nijatjafarov/Desktop/PragmatechC#/Weeok02/Task6/bin/Debug/netcoreapp3.1/Task6.runtimeconfig.json
+/Users/nijatjafarov/Desktop/PragmatechC#/Weeok02/Task6/bin/Debug/netcoreapp3.1/Task6.runtimeconfig.dev.json
+/Users/nijatjafarov/Desktop/PragmatechC#/Weeok02/Task6/bin/Debug/netcoreapp3.1/Task6.dll
+/Users/nijatjafarov/Desktop/PragmatechC#/Weeok02/Task6/bin/Debug/netcoreapp3.1/Task6.pdb
+/Users/nijatjafarov/Desktop/PragmatechC#/Weeok02/Task6/obj/Debug/netcoreapp3.1/Task6.AssemblyInfoInputs.cache
+/Users/nijatjafarov/Desktop/PragmatechC#/Weeok02/Task6/obj/Debug/netcoreapp3.1/Task6.AssemblyInfo.cs
+/Users/nijatjafarov/Desktop/PragmatechC#/Weeok02/Task6/obj/Debug/netcoreapp3.1/Task6.csproj.CoreCompileInputs.cache
+/Users/nijatjafarov/Desktop/PragmatechC#/Weeok02/Task6/obj/Debug/netcoreapp3.1/Task6.dll
+/Users/nijatjafarov/Desktop/PragmatechC#/Weeok02/Task6/obj/Debug/netcoreapp3.1/Task6.pdb
+/Users/nijatjafarov/Desktop/PragmatechC#/Weeok02/Task6/obj/Debug/netcoreapp3.1/Task6.genruntimeconfig.cache
