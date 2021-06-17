@@ -19,7 +19,7 @@ namespace Task3
             }
             else
             {
-                Console.WriteLine("IDK man. This is life. Everything can be possible");
+                Console.WriteLine("IDK man. This is a life. Everything can be possible");
             }
 
             Console.WriteLine("Fantastic, right?");
