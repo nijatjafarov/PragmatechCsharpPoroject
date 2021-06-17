@@ -9,3 +9,4 @@
 /Users/nijatjafarov/Desktop/PragmatechC#/Weeok02/Task4/obj/Debug/netcoreapp3.1/Task4.dll
 /Users/nijatjafarov/Desktop/PragmatechC#/Weeok02/Task4/obj/Debug/netcoreapp3.1/Task4.pdb
 /Users/nijatjafarov/Desktop/PragmatechC#/Weeok02/Task4/obj/Debug/netcoreapp3.1/Task4.genruntimeconfig.cache
+/Users/nijatjafarov/Desktop/PragmatechC#/Weeok02/Task4/obj/Debug/netcoreapp3.1/Task4.csproj.AssemblyReference.cache
