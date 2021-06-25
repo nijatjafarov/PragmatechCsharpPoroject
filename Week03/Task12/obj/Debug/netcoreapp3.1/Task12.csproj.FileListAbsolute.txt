@@ -1,0 +1,12 @@
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/Task12/bin/Debug/netcoreapp3.1/Task12.deps.json
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/Task12/bin/Debug/netcoreapp3.1/Task12.runtimeconfig.json
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/Task12/bin/Debug/netcoreapp3.1/Task12.runtimeconfig.dev.json
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/Task12/bin/Debug/netcoreapp3.1/Task12.dll
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/Task12/bin/Debug/netcoreapp3.1/Task12.pdb
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/Task12/obj/Debug/netcoreapp3.1/Task12.csproj.AssemblyReference.cache
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/Task12/obj/Debug/netcoreapp3.1/Task12.AssemblyInfoInputs.cache
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/Task12/obj/Debug/netcoreapp3.1/Task12.AssemblyInfo.cs
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/Task12/obj/Debug/netcoreapp3.1/Task12.csproj.CoreCompileInputs.cache
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/Task12/obj/Debug/netcoreapp3.1/Task12.dll
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/Task12/obj/Debug/netcoreapp3.1/Task12.pdb
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/Task12/obj/Debug/netcoreapp3.1/Task12.genruntimeconfig.cache

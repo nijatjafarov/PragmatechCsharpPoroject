@@ -1,12 +1,13 @@
-﻿<Properties StartupConfiguration="{C1E7A87E-B3B7-44EF-8263-EFFFFD10C30A}|Default">
-  <MonoDevelop.Ide.ItemProperties.Task11 FirstBuild="True" />
+﻿<Properties StartupConfiguration="{4EE2D946-0786-4247-8A11-3F8041B4A063}|Default">
+  <MonoDevelop.Ide.ItemProperties.Task11 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Task7 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Task8 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Task11/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task12/Program.cs">
     <Files>
       <File FileName="Task9/Program.cs" Line="16" Column="35" />
       <File FileName="Task10/Program.cs" Line="14" Column="14" />
-      <File FileName="Task11/Program.cs" Line="1" Column="1" />
+      <File FileName="Task11/Program.cs" Line="31" Column="14" />
+      <File FileName="Task12/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,7 +15,8 @@
           <Node name="Week03" expanded="True">
             <Node name="Task1" expanded="True" />
             <Node name="Task10" expanded="True" />
-            <Node name="Task11" expanded="True">
+            <Node name="Task11" expanded="True" />
+            <Node name="Task12" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
             <Node name="Task2" expanded="True" />
@@ -44,4 +46,5 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Task2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Task3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Task12 FirstBuild="True" />
 </Properties>
