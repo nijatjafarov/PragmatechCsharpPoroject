@@ -1,9 +1,8 @@
-﻿<Properties StartupConfiguration="{506FC0D4-1FE3-47E0-B60E-562BCB59A250}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Task3/Program.cs">
+﻿<Properties StartupConfiguration="{DFDD7855-FA32-41B5-8EDC-FF0E80E734B3}|Default">
+  <MonoDevelop.Ide.ItemProperties.Task7 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task7/Program.cs">
     <Files>
-      <File FileName="Task5/Program.cs" Line="30" Column="98" />
-      <File FileName="Task6/Program.cs" Line="64" Column="17" />
-      <File FileName="Task3/Program.cs" Line="24" Column="66" />
+      <File FileName="Task7/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,12 +10,13 @@
           <Node name="Week03" expanded="True">
             <Node name="Task1" expanded="True" />
             <Node name="Task2" expanded="True" />
-            <Node name="Task3" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="Task3" expanded="True" />
             <Node name="Task4" expanded="True" />
             <Node name="Task5" expanded="True" />
             <Node name="Task6" expanded="True" />
+            <Node name="Task7" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
