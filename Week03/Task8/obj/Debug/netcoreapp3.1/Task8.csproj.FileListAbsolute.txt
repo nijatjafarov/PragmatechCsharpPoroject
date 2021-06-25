@@ -1,0 +1,12 @@
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/Task8/bin/Debug/netcoreapp3.1/Task8.deps.json
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/Task8/bin/Debug/netcoreapp3.1/Task8.runtimeconfig.json
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/Task8/bin/Debug/netcoreapp3.1/Task8.runtimeconfig.dev.json
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/Task8/bin/Debug/netcoreapp3.1/Task8.dll
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/Task8/bin/Debug/netcoreapp3.1/Task8.pdb
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/Task8/obj/Debug/netcoreapp3.1/Task8.csproj.AssemblyReference.cache
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/Task8/obj/Debug/netcoreapp3.1/Task8.AssemblyInfoInputs.cache
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/Task8/obj/Debug/netcoreapp3.1/Task8.AssemblyInfo.cs
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/Task8/obj/Debug/netcoreapp3.1/Task8.csproj.CoreCompileInputs.cache
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/Task8/obj/Debug/netcoreapp3.1/Task8.dll
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/Task8/obj/Debug/netcoreapp3.1/Task8.pdb
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/Task8/obj/Debug/netcoreapp3.1/Task8.genruntimeconfig.cache
