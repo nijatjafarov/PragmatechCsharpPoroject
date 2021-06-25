@@ -21,7 +21,7 @@ namespace Task3
 
             if (totalGuesses >= 5)
             {
-                Console.WriteLine("You used all of your chances");
+                Console.WriteLine("You used all of your chances. Right answer was {0}", randomNum);
             }
             else if (randomNum == guessedNum)
             {
