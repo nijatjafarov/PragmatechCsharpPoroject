@@ -1,0 +1,12 @@
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/RockPaperScissorsGame/bin/Debug/netcoreapp3.1/RockPaperScissorsGame.deps.json
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/RockPaperScissorsGame/bin/Debug/netcoreapp3.1/RockPaperScissorsGame.runtimeconfig.json
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/RockPaperScissorsGame/bin/Debug/netcoreapp3.1/RockPaperScissorsGame.runtimeconfig.dev.json
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/RockPaperScissorsGame/bin/Debug/netcoreapp3.1/RockPaperScissorsGame.dll
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/RockPaperScissorsGame/bin/Debug/netcoreapp3.1/RockPaperScissorsGame.pdb
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/RockPaperScissorsGame/obj/Debug/netcoreapp3.1/RockPaperScissorsGame.csproj.AssemblyReference.cache
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/RockPaperScissorsGame/obj/Debug/netcoreapp3.1/RockPaperScissorsGame.AssemblyInfoInputs.cache
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/RockPaperScissorsGame/obj/Debug/netcoreapp3.1/RockPaperScissorsGame.AssemblyInfo.cs
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/RockPaperScissorsGame/obj/Debug/netcoreapp3.1/RockPaperScissorsGame.csproj.CoreCompileInputs.cache
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/RockPaperScissorsGame/obj/Debug/netcoreapp3.1/RockPaperScissorsGame.dll
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/RockPaperScissorsGame/obj/Debug/netcoreapp3.1/RockPaperScissorsGame.pdb
+/Users/nijatjafarov/Desktop/PragmatechC#/Week03/RockPaperScissorsGame/obj/Debug/netcoreapp3.1/RockPaperScissorsGame.genruntimeconfig.cache

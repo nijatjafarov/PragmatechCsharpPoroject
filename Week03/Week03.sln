@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task11", "Task11\Task11.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task12", "Task12\Task12.csproj", "{8C18B61F-2AD1-4FE5-9C34-A6FE8C0BE0F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissorsGame", "RockPaperScissorsGame\RockPaperScissorsGame.csproj", "{D3640947-BC19-4C18-9ED7-C7FD171E1710}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{8C18B61F-2AD1-4FE5-9C34-A6FE8C0BE0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C18B61F-2AD1-4FE5-9C34-A6FE8C0BE0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C18B61F-2AD1-4FE5-9C34-A6FE8C0BE0F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3640947-BC19-4C18-9ED7-C7FD171E1710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3640947-BC19-4C18-9ED7-C7FD171E1710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3640947-BC19-4C18-9ED7-C7FD171E1710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3640947-BC19-4C18-9ED7-C7FD171E1710}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
