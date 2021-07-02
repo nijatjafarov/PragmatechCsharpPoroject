@@ -1,8 +1,9 @@
-﻿<Properties StartupConfiguration="{061DDA5C-84B0-42C8-A70A-DFF5798A6D05}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Task5/Program.cs">
+﻿<Properties StartupConfiguration="{F2306362-5B06-45F0-BCBC-1867FB5536A6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task6/Program.cs">
     <Files>
       <File FileName="Task3/Program.cs" Line="3" Column="19" />
-      <File FileName="Task5/Program.cs" Line="9" Column="13" />
+      <File FileName="Task5/Program.cs" Line="39" Column="1" />
+      <File FileName="Task6/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,7 +13,8 @@
             <Node name="Task2" expanded="True" />
             <Node name="Task3" expanded="True" />
             <Node name="Task4" expanded="True" />
-            <Node name="Task5" expanded="True">
+            <Node name="Task5" expanded="True" />
+            <Node name="Task6" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -21,7 +23,8 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Task1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Task5 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Task5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Task6 FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Task4 FirstBuild="True" />
