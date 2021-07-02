@@ -1,15 +1,14 @@
-﻿<Properties StartupConfiguration="{48C51DC7-3566-4B75-A105-C155EB100496}|Default">
+﻿<Properties StartupConfiguration="{C1E7A87E-B3B7-44EF-8263-EFFFFD10C30A}|Default">
   <MonoDevelop.Ide.ItemProperties.Task11 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Task7 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Task8 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Task11/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task10/Program.cs">
     <Files>
-      <File FileName="Task9/Program.cs" Line="16" Column="35" />
-      <File FileName="Task10/Program.cs" />
+      <File FileName="Task10/Program.cs" Line="8" Column="10" />
       <File FileName="Task11/Program.cs" Line="34" Column="2" />
-      <File FileName="Task12/Program.cs" />
-      <File FileName="RockPaperScissorsGame/Program.cs" />
-      <File FileName="Task6/Program.cs" />
+      <File FileName="Task12/Program.cs" Line="1" Column="1" />
+      <File FileName="RockPaperScissorsGame/Program.cs" Line="1" Column="1" />
+      <File FileName="Task6/Program.cs" Line="1" Column="1" />
       <File FileName="Task8/Program.cs" Line="31" Column="33" />
     </Files>
     <Pads>
@@ -18,10 +17,10 @@
           <Node name="Week03" expanded="True">
             <Node name="RockPaperScissorsGame" expanded="True" />
             <Node name="Task1" expanded="True" />
-            <Node name="Task10" expanded="True" />
-            <Node name="Task11" expanded="True">
+            <Node name="Task10" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
+            <Node name="Task11" expanded="True" />
             <Node name="Task12" expanded="True" />
             <Node name="Task2" expanded="True" />
             <Node name="Task3" expanded="True" />
