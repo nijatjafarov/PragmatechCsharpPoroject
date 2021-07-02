@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace Task1
+namespace Task2
 {
     class Program
     {
@@ -9,7 +9,7 @@ namespace Task1
         {
             //First version
             //int[] randomNums = new int[5];
-            //int[] reversedNums = new int[randomNums.Length];
+            //int sum = 0;
 
             //Random random = new Random();
 
@@ -18,14 +18,12 @@ namespace Task1
             //{
             //    randomNums[i] = random.Next(100);
             //    Console.Write($"{randomNums[i]} ");
+            //    sum += randomNums[i];
             //}
 
-            //Console.Write("\n\nReversed version of the array | ");
-            //for (int i = 0; i < reversedNums.Length; i++)
-            //{
-            //    reversedNums[i] = randomNums[randomNums.Length - 1 - i];
-            //    Console.Write($"{reversedNums[i]} ");
-            //}
+            //Console.Write($"\n\nSum of elements of array is {sum} ");
+
+
 
 
             //Second version
@@ -40,15 +38,8 @@ namespace Task1
                 Console.Write($"{randomNums[i]} ");
             }
 
-            int[] reversedNums = (int[])randomNums.Clone();
-            reversedNums.Reverse();
+            Console.Write($"\n\nSum of elements of array is {randomNums.Sum()} ");
 
-            Console.Write("\n\nReversed version of the array | ");
-            for (int i = 0; i < reversedNums.Length; i++)
-            {
-                reversedNums[i] = randomNums[randomNums.Length - 1 - i];
-                Console.Write($"{reversedNums[i]} ");
-            }
         }
     }
 }
