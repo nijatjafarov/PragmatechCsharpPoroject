@@ -1,0 +1,10 @@
+C:\Users\nihad\Desktop\Week05\Task6\bin\Debug\Task6.exe.config
+C:\Users\nihad\Desktop\Week05\Task6\bin\Debug\Task6.exe
+C:\Users\nihad\Desktop\Week05\Task6\bin\Debug\Task6.pdb
+C:\Users\nihad\Desktop\Week05\Task6\obj\Debug\Task6.csproj.AssemblyReference.cache
+C:\Users\nihad\Desktop\Week05\Task6\obj\Debug\Task6.Form1.resources
+C:\Users\nihad\Desktop\Week05\Task6\obj\Debug\Task6.Properties.Resources.resources
+C:\Users\nihad\Desktop\Week05\Task6\obj\Debug\Task6.csproj.GenerateResource.cache
+C:\Users\nihad\Desktop\Week05\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+C:\Users\nihad\Desktop\Week05\Task6\obj\Debug\Task6.exe
+C:\Users\nihad\Desktop\Week05\Task6\obj\Debug\Task6.pdb

@@ -1,0 +1,10 @@
+C:\Users\nihad\Desktop\Week05\Task4\bin\Debug\Task4.exe.config
+C:\Users\nihad\Desktop\Week05\Task4\bin\Debug\Task4.exe
+C:\Users\nihad\Desktop\Week05\Task4\bin\Debug\Task4.pdb
+C:\Users\nihad\Desktop\Week05\Task4\obj\Debug\Task4.Form1.resources
+C:\Users\nihad\Desktop\Week05\Task4\obj\Debug\Task4.Properties.Resources.resources
+C:\Users\nihad\Desktop\Week05\Task4\obj\Debug\Task4.csproj.GenerateResource.cache
+C:\Users\nihad\Desktop\Week05\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Users\nihad\Desktop\Week05\Task4\obj\Debug\Task4.exe
+C:\Users\nihad\Desktop\Week05\Task4\obj\Debug\Task4.pdb
+C:\Users\nihad\Desktop\Week05\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\nihad\Desktop\Week05\Task2\bin\Debug\Task2.exe.config
+C:\Users\nihad\Desktop\Week05\Task2\bin\Debug\Task2.exe
+C:\Users\nihad\Desktop\Week05\Task2\bin\Debug\Task2.pdb
+C:\Users\nihad\Desktop\Week05\Task2\obj\Debug\Task2.Form1.resources
+C:\Users\nihad\Desktop\Week05\Task2\obj\Debug\Task2.Properties.Resources.resources
+C:\Users\nihad\Desktop\Week05\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+C:\Users\nihad\Desktop\Week05\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\nihad\Desktop\Week05\Task2\obj\Debug\Task2.exe
+C:\Users\nihad\Desktop\Week05\Task2\obj\Debug\Task2.pdb
+C:\Users\nihad\Desktop\Week05\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
