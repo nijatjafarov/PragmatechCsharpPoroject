@@ -1,0 +1,14 @@
+C:\Users\Nijat\Desktop\Week12\Task1\bin\Debug\netcoreapp3.1\Task1.exe
+C:\Users\Nijat\Desktop\Week12\Task1\bin\Debug\netcoreapp3.1\Task1.deps.json
+C:\Users\Nijat\Desktop\Week12\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.json
+C:\Users\Nijat\Desktop\Week12\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.dev.json
+C:\Users\Nijat\Desktop\Week12\Task1\bin\Debug\netcoreapp3.1\Task1.dll
+C:\Users\Nijat\Desktop\Week12\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
+C:\Users\Nijat\Desktop\Week12\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.AssemblyReference.cache
+C:\Users\Nijat\Desktop\Week12\Task1\obj\Debug\netcoreapp3.1\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijat\Desktop\Week12\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+C:\Users\Nijat\Desktop\Week12\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+C:\Users\Nijat\Desktop\Week12\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Nijat\Desktop\Week12\Task1\obj\Debug\netcoreapp3.1\Task1.dll
+C:\Users\Nijat\Desktop\Week12\Task1\obj\Debug\netcoreapp3.1\Task1.pdb
+C:\Users\Nijat\Desktop\Week12\Task1\obj\Debug\netcoreapp3.1\Task1.genruntimeconfig.cache
