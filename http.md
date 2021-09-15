@@ -205,8 +205,5 @@ Content-Length: 39
 TRACE / HTTP/1.1
 Host: www.tutorialspoint.com
 User-Agent: Mozilla/4.0 (compatible; MSIE5.01; Windows NT)
-```
-Göründüyü kimi cavab mesajının "Allow" field-də dəstəklənən HTTP metodları sıralanıb.
-
 
 
