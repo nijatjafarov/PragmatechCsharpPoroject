@@ -135,7 +135,7 @@
 - Authenticode Signing
 - Resources and Satellite Assemblies
 - Loading, Resolving, and Isolating Assemblies
-## Reection and Metadata
+## Reflection and Metadata
 - Reflecting and Activating Types
 - Reflecting and Invoking Members
 - Reflecting Assemblies
